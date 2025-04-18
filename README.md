@@ -1,5 +1,3 @@
-
-
 Problem Statement: Development of gamified platform on Children's Rights to increase legal literacy and awareness among children in India
 
 Structure Description:
@@ -28,7 +26,7 @@ Technologies Used
 ✨Responsive Design
 
 Open the project in a web browser:
-open pages/landing-page.html
+open pages/index.html
 
 Credits
 ✨All images designed by Freepik

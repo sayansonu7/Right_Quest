@@ -26,7 +26,7 @@ Technologies Used
 ✨Responsive Design
 
 Open the project in a web browser:
-open pages/landing-page.html
+open pages/index.html
 
 Credits
 ✨All images designed by Freepik
